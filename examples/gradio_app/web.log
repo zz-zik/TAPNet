@@ -1,0 +1,6 @@
+Using HOST_IP: 172.22.154.148
+Activated conda environment: pytorch
+切换到工作目录
+/sxs/zhoufei/P2PNet/TFPNet4-DAF-Adaptive/examples/gradio_app
+Gradio service started with PID: 2775
+Port Forwarding Post URL: [4mhttp://172.16.15.10:30106[0m
