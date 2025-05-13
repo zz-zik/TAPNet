@@ -1,4 +1,4 @@
-# TAPNet: Transformer-based Auxiliary Point Detection Network for Crowd Counting Tasks
+<!--# [TAPNet: Transformer-based Auxiliary Point Detection Network for Crowd Counting Tasks](https://arxiv.org/abs/2505.06937v1) -->
 
 English | [简体中文](README_cn.md) | [English](README.md) | [CSDN Blog](https://blog.csdn.net/weixin_62828995?spm=1000.2115.3001.5343)
 
