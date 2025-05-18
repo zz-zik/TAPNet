@@ -58,14 +58,14 @@ TAPNet is a state-of-the-art crowd counting model that leverages dual-optical at
 
 
 ## 🚀 Updates
-- [x] **[2024.05.07]** Initiated the project.
-- [x] **[2024.06.13]** Participated in the 2024 Global Artificial Intelligence Counting Innovation Competition Track 2.
-- [x] **[2024.07.23]** Introduced the Dual-Optical Attention Fusion Module (DAFP).
-- [x] **[2024.08.05]** Added the Adaptive Dual-Optical Feature Decomposition Fusion Module (AFDF).
-- [x] **[2024.08.12]** Optimized training strategies to improve model robustness in misaligned image conditions.
-- [x] **[2025.03.12]** Added a UI interface demo demonstration.
-- [x] **[2025.04.03]** Uploaded to GitHub.
-- [x] **[2025.05.13]** Uploaded to [arXiv](https://arxiv.org/abs/2505.06937v1).
+- ✅ **[2024.05.07]** Initiated the project.
+- ✅ **[2024.06.13]** Participated in the 2024 Global Artificial Intelligence Counting Innovation Competition Track 2.
+- ✅ **[2024.07.23]** Introduced the Dual-Optical Attention Fusion Module (DAFP).
+- ✅ **[2024.08.05]** Added the Adaptive Dual-Optical Feature Decomposition Fusion Module (AFDF).
+- ✅ **[2024.08.12]** Optimized training strategies to improve model robustness in misaligned image conditions.
+- ✅ **[2025.03.12]** Added a UI interface demo demonstration.
+- ✅ **[2025.04.03]** Uploaded to GitHub.
+- ✅ **[2025.05.13]** Uploaded to [arXiv](https://arxiv.org/abs/2505.06937v1).
 
 ## Model Zoo
 
