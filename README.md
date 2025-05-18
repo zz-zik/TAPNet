@@ -69,19 +69,7 @@ TAPNet is a state-of-the-art crowd counting model that leverages dual-optical at
 
 ## Model Zoo
 
-| Method        | Backbone | Approach  | Modality | DroneRGBT MAE↓ | DroneRGBT MSE↓ | DroneRGBT F1↑ | GAII C2 MAE↓ | GAII C2 MSE↓ | GAII C2 F1↑ |
-|---------------|----------|-----------|----------|----------------|----------------|---------------|--------------|--------------|-------------|
-| P2PNet        | Vgg16    | Point     | RGB      | 10.83          | 17.09          | 0.596         | 10.95        | 21.01        | 0.455       |
-| CLTR          | ResNet50 | Point     | RGB      | 12.06          | 20.86          | 0.587         | 11.37        | 21.88        | 0.423       |
-| PET           | Vgg16    | Point     | RGB      | 10.92          | 16.85          | **0.611**     | 10.10        | 17.36        | 0.412       |
-| APGCC         | Vgg16    | Point     | RGB      | 11.50          | 16.61          | 0.603         | 10.35        | 18.92        | 0.409       |
-| DroneNet      | YOLOv5   | Detection | TIR      | 18.6           | 25.2           | -             | 15.86        | 25.62        | 0.379       |
-|               |          |           | R-T      | 10.1           | 18.8           | -             | 9.93         | 17.39        | 0.491       |
-| MMCount       | CNN      | Map       | TIR      | 16.0           | 23.3           | -             | 15.25        | 22.82        | 0.334       |
-|               |          |           | R-T      | **9.2**        | 18.0           | -             | 9.78         | 19.33        | 0.489       |
-|               |          |           | RGB      | 10.32          | **16.14**      | 0.610         | **8.54**     | **13.63**    | **0.506**   |
-| TAPNet (ours) | ResNet50 | Point     | TIR      | 13.15          | 19.86          | 0.586         | 13.91        | 20.06        | 0.465       |
-|               |          |           | R-T      | **7.32**       | **11.54**      | **0.657**     | **7.87**     | **13.25**    | **0.526**   |
+![SOTA](https://i-blog.csdnimg.cn/direct/d60a5459d6c94b6aa6aecc7a04954f7f.png)
 
 ## Quick Start
 
