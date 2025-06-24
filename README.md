@@ -45,12 +45,6 @@ Neusoft Institute Guangdong, China & Airace Technology Co.,Ltd., China
 </p>
 
 <p align="center">
-    <a href="https://paperswithcode.com/sota/crowd-counting">
-        <img alt="sota" src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transformer-based-dual-optical-attention-fusion/crowd-counting">
-    </a>
-</p>
-
-<p align="center">
 <strong>If you like TAPNet, please give us a ⭐! Your support motivates us to keep improving!</strong>
 </p>
 
@@ -174,7 +168,7 @@ TFPNet
 </details>
 
 ### Citation
-If you use RT-FINE in your research, please cite:
+If you use TAPNet in your research, please cite:
 
 <details open>
 <summary> bibtex </summary>
