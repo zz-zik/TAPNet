@@ -45,13 +45,7 @@ Neusoft Institute Guangdong, China & Airace Technology Co.,Ltd., China
 </p>
 
 <p align="center">
-    <a href="https://paperswithcode.com/sota/crowd-counting">
-        <img alt="sota" src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transformer-based-dual-optical-attention-fusion/crowd-counting">
-    </a>
-</p>
-
-<p align="center">
-<strong>如果您喜欢 TAPNet，请为我们点赞⭐！您的支持是我们不断进步的动力！TAPNet 是一种最先进的人群计数模型，它利用双光注意融合和自适应特征分解来提高夜间条件和密集人群等复杂场景下的准确性和鲁棒性。</strong>
+<strong>如果您喜欢 TAPNet，请为我们点赞⭐！您的支持是我们不断进步的动力！</strong>
 </p>
 
 TAPNet 是一种最先进的人群计数模型，它利用双光学注意力融合和自适应特征分解，提高了在夜间条件和密集人群等复杂场景下的准确性和鲁棒性。
@@ -175,7 +169,7 @@ TFPNet
 </details>
 
 ### Citation
-If you use RT-FINE in your research, please cite:
+If you use TAPNet in your research, please cite:
 
 <details open>
 <summary> bibtex </summary>
